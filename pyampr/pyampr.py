@@ -1513,4 +1513,5 @@ def _print_times_not_valid():
     print 'Times not valid, just plotting everything'
     print 'Next time try timerange=[\'hh:mm:ss\',\'HH:MM:SS\']'
 
-
+def _hellokitty();
+  print "hello Kitty"
